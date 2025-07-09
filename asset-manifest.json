@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/askhalsa.dev/static/css/main.22a33f23.css",
+    "main.js": "/askhalsa.dev/static/js/main.13a50de1.js",
+    "index.html": "/askhalsa.dev/index.html",
+    "main.22a33f23.css.map": "/askhalsa.dev/static/css/main.22a33f23.css.map",
+    "main.13a50de1.js.map": "/askhalsa.dev/static/js/main.13a50de1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22a33f23.css",
+    "static/js/main.13a50de1.js"
+  ]
+}
